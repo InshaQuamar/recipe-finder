@@ -65,8 +65,7 @@ Welcome to the Recipe Finder web application, a dynamic and intuitive solution f
 
 ## Backend
 
-The backend for the Recipe Finder web application is built with Node.js and Express.js, providing a robust API for managing user data and recipes. This API interacts with a MongoDB database to handle user authentication and recipe storage. You can find the source code for the backend [here](https://github.com/BilalM04/recipe-finder-backend).
+The backend for the Recipe Finder web application is built with Node.js and Express.js, providing a robust API for managing user data and recipes. This API interacts with a MongoDB database to handle user authentication and recipe storage. You can find the source code for the backend [here](https://github.com/InshaQuamar/).
 
 ## Demo
 
-Explore the live demo: [Recipe Finder](https://bilalm04.github.io/recipe-finder/)
