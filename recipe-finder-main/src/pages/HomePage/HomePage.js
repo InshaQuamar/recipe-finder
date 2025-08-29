@@ -23,10 +23,10 @@ const HomePage = () => {
       </div>
       <footer className="footer-main">
         <div className="social-links">
-          <a href="https://www.linkedin.com/in/mohammadbilal7/" target="_blank" rel="noopener noreferrer">
+          <a href="www.linkedin.com/in/insha-quamar-419895258" target="_blank" rel="noopener noreferrer">
             <img src={LinkedInLogo} alt="LinkedIn" />
           </a>
-          <a href="https://bilalm04.github.io/" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/InshaQuamar/" target="_blank" rel="noopener noreferrer">
             <img src={initials} alt="Portfolio" />
           </a>
         </div>
@@ -36,3 +36,4 @@ const HomePage = () => {
 };
 
 export default HomePage;
+
